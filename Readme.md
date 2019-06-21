@@ -1,4 +1,7 @@
 # dxMap - How to add the current location marker
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4734)**
+<!-- run online end -->
 
 
 <p>This example describes how to use the dxMap widget with <a href="http://dev.w3.org/geo/api/spec-source.html"><u>HTML5 Geolocation</u></a>. </p><p><strong>See also:<br />
