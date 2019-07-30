@@ -1,6 +1,6 @@
 # dxMap - How to add the current location marker
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4734)**
+**[[Run Online]](https://codecentral.devexpress.com/e4734/)**
 <!-- run online end -->
 
 
